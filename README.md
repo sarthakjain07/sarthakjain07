@@ -28,7 +28,7 @@ const sarthak () => ({
     ],
     technologies: {
         web_development:{
-            code: ["HTML3", "CSS5", "Javascript"]
+            code: ["HTML3", "CSS5", "Javascript"],
             framework: ["django", "flask", "Reactjs", "Node.js"],
             databases: ["mysql","sqlite","mongoDB","postgres","redis"],
             web_servers: ["heroku", "pythonanywhere"],
