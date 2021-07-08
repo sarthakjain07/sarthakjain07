@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Sarthak Jain! 👨‍💻 </h2>
 <img align='right' src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="230">
-<p><em>Python and Javascript Intern at<a href="https://codr.toppr.com/">Toppr Codr</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Python and Javascript Intern at <a href="https://codr.toppr.com/">Toppr Codr</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 - 📫 How to reach me 
