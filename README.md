@@ -29,17 +29,11 @@ const sarthak () => ({
     technologies: {
         web_development:{
             code: ["HTML5", "CSS3", "Javascript"],
-            framework: ["django", "flask", "Reactjs", "Node.js"],
-            databases: ["mysql","sqlite","mongoDB","postgres","redis"],
+            framework: ["Reactjs", "Node.js"],
+            databases: ["mysql","sqlite","mongoDB","firebase"],
             web_servers: ["heroku", "pythonanywhere"],
             wsgi_server: ["gunicorn"],
         },
-      machineLearning: ["Linear Regression", "Logistic Regression", 
-      "Support Vector Machine","Decision Tree",
-      "Random Forest","KMeans","clustering", "k-nearest neighbors"],
-      dataScience: ["pandas","numpy","matplotlib","seaborn"],
-      misc: ["selenium", "open-cv", "socket programming", "NLP", "PySpark"]
-      },
     IDEs: [
       "Sublime Text", "PyCharm",
       "Visual Studio", "Code Blocks"
