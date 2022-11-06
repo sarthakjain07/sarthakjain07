@@ -21,15 +21,15 @@
 ```js
 const sarthak () => ({
     pronouns: "He" | "Him",
-    code: ["Python", "C", "C++"],
+    code: ["Python", "C", "C++", "Golang"],
     askMeAbout: [
       "python", "tech", "memes",
-      "webdev", "setups"
+      "webdev", "setups", "fullstack", "golang"
     ],
     technologies: {
         web_development:{
-            code: ["HTML5", "CSS3", "Javascript"],
-            framework: ["Reactjs", "Node.js"],
+            code: ["HTML5", "CSS3", "Javascript", "Golang"],
+            framework: ["Reactjs", "Node.js", "Echo"],
             databases: ["mysql","sqlite","mongoDB","firebase"],
             web_servers: ["heroku", "pythonanywhere"],
             wsgi_server: ["gunicorn"],
