@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Sarthak Jain! 👨‍💻 </h2>
 <img align='right' src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="230">
-<p><em>SDE at <a href="https://www.persistent.com/">Persistent Systems</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>SDE at <a href="https://www.persistent.com/">Chetu Inc</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 - 📫 How to reach me 
